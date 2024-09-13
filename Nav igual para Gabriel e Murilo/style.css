@@ -42,6 +42,7 @@ header p {
     color: rgb(255, 255, 255);
     padding: 10px;
     display: block;
+    margin-left: 40px;
 }
 
 .menu-horizontal ul li a:hover {
